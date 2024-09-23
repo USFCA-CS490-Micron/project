@@ -1,0 +1,3 @@
+[submodule "local-llms"]
+	path = local-llms
+	url = git@github.com:USFCA-CS490-Micron/local-llms.git
