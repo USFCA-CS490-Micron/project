@@ -16,5 +16,7 @@ in root dir:
 - `git add <submod name>` (eg `git add interface`)
 - `git commit -m "updating <interface name>`
 
+(JetBrains IDEs (IntelliJ, PyCharm, GoLand, etc) make this really, really easy!!)
+
 Treat submodules like their own repos (they literally are!). Pull/fetch/etc inside a submodule will pull from *only* the submodule's repo, not the entire project.
   
