@@ -7,3 +7,6 @@
 [submodule "private-relay"]
 	path = private-relay
 	url = git@github.com:USFCA-CS490-Micron/private-relay.git
+[submodule "core-device"]
+	path = core-device
+	url = git@github.com:USFCA-CS490-Micron/core-device.git
