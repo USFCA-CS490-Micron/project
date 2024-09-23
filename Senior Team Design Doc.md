@@ -139,7 +139,6 @@ The vast majority of the work will lie in crafting a user interface which is sim
 
 
 ## Changelog
----
 *Nothing to note yet*
 
 
