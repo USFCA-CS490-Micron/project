@@ -140,11 +140,9 @@ The vast majority of the work will lie in crafting a user interface which is sim
 
 
 ## Changelog
----
 *Nothing to note yet*
 
 
 ## Meeting Log
----
 - Met with Prof. Malensek, on Wednesday, 9/18, to discuss early progress.
 - Met with Paul Lambert, project sponsor, on Friday, 9/20, to discuss basics of project.
