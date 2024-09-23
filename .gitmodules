@@ -4,3 +4,6 @@
 [submodule "interface"]
 	path = interface
 	url = git@github.com:USFCA-CS490-Micron/interface.git
+[submodule "private-relay"]
+	path = private-relay
+	url = git@github.com:USFCA-CS490-Micron/private-relay.git
