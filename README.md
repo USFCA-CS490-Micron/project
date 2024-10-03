@@ -2,6 +2,8 @@
 
 This is the primary project repo.
 
+## more info will go here, eventually
+
 ### submodules
 
 To clone project:
