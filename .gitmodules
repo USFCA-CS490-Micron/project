@@ -1,6 +1,6 @@
-[submodule "local-llms"]
-	path = local-llms
-	url = git@github.com:USFCA-CS490-Micron/local-llms.git
+[submodule "cognition-llms"]
+	path = cognition-llms
+	url = git@github.com:USFCA-CS490-Micron/cognition-llms.git
 [submodule "interface"]
 	path = interface
 	url = git@github.com:USFCA-CS490-Micron/interface.git
