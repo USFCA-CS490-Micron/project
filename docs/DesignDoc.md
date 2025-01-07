@@ -217,9 +217,20 @@ while Omi will make this slightly more complex as its APIs and SDKs are quite ba
 
 ## Changelog
 
-*Nothing to note yet*
+- Private Relay Implementation Changes from Design:
+  - Removed "basic" query handling as it should be processed locally on RPi
+  - Simplified initial architecture to focus on complex queries first
+  - Vision capabilities structured but not yet implemented
+  - GNL (Google Natural Language) now preprocesses all queries for enhanced context, not just specific types
+  - Direct model integration rather than the planned fine-tuned distilBERT for query routing
 
 ## Meeting Log
 
 - Met with Prof. Malensek, on Wednesday, 9/18, to discuss early progress.
 - Met with Paul Lambert, project sponsor, on Friday, 9/20, to discuss basics of project.
+- Quick sync with Paul Lambert, Tuesday, 10/8, spoke about the system design of the project and our GitHub repository.
+- Team meeting with Paul, Tuesday 10/22, which consisted of a progress report on our platforms and the use of local and remote LLMs.
+- Tuesday 10/29, reviewed accomplishments with Paul and discussed what we would demo during our midterm presentation.
+- Thursday 11/7, functional code demos and discussed moving forward without the ESPs.
+- Tuesday 11/12, discussed the readability of our repository as a public project and any issues or updates we had.
+- Our final team meeting, on Tuesday 12/3, discussed the current state of the project, moving forward, and how to better brand Caldera.
